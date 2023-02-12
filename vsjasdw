@@ -1,6 +1,6 @@
 local Config = {
     WindowName = "SeppensiveCheat",
-	Color = Color3.fromRGB(147,0,0),
+	Color = Color3.fromRGB(0,15,191),
 	Keybind = Enum.KeyCode.RightControl
 }
 repeat wait() until game:IsLoaded() wait()
